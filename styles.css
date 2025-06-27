@@ -158,3 +158,8 @@ th {
 .mt-2 { margin-top: 16px; }
 .mb-2 { margin-bottom: 16px; }
 .text-center { text-align: center; }
+.centertxt {
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+}
