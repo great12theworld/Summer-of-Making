@@ -72,12 +72,11 @@ p {
 
 /* Links */
 a {
-    color: #1976d2;
-    text-decoration: none;
+    color: #123e6b;
     transition: color 0.2s;
 }
 a:hover {
-    color: #0d47a1;
+    color: #6da0ed;
     text-decoration: underline;
 }
 
