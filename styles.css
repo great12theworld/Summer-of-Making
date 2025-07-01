@@ -169,3 +169,15 @@ th {
 .align-left {
     text-align: left;
 }
+
+            .row.align-items-center {
+            align-items: center !important;
+            }
+            .centered-col {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+            text-align: center;
+            }
